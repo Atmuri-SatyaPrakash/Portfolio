@@ -1,22 +1,14 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
-</p>
+---
+
+# [Built Portfolio With GitHub ](https://github.com/Atmuri-SatyaPrakash/Portfolio)
 
 ---
 
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
-
----
-
-# Developer Portfolio
+# Student Portfolio
 
 #### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
 
 ---
-
-# Demo :movie_camera:
-
-![](./public/image/screen.png)
 
 ## View live preview [here](https://abusaid.netlify.app/).
 
@@ -151,21 +143,21 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
+  name: "A. Satya Prakash",
+  profile:'/profile.png',
+  designation: "Software Developer | Analyst",
+  description: "I'm A. Satya Prakash, a Computer Science student at VIT-AP University with a passion for full stack development, AI, and data science. I enjoy building impactful digital solutions and have authored research papers, co-written book chapters, and hold a patent in smart infrastructure. As a core member of CSI Club and VCode Team, I actively lead and contribute to hackathons, events, and tech collaborations.",
+  email: 'satya142005@gmail.com',
+  phone: '+916304006700',
+  address: '43-106/1-51A/3,FLAT NO-301,Nandini Manor,IndiranayakNagar,Vijayawada,AndhraPradesh,India',
+  github: 'https://github.com/Atmuri-SatyaPrakash',
+  facebook: 'https://www.facebook.com/share/15rcGsycq8/',
+  linkedIn: 'https://www.linkedin.com/in/atmuri-satya-prakash-2a9737246/',
+  twitter: 'https://x.com/SatyaPr51230167',
+  stackOverflow: 'https://stackoverflow.com/users/27335748/satya-prakash',
+  leetcode: "https://leetcode.com/u/satya142005/",
+  devUsername: "satya_prakash_06",
+  resume: "https://drive.google.com/file/d/11C9AAtwahb-kiwT8d4Grm-YvNhbtez8d/view?usp=drive_link"
 };
 ```
 
